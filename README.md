@@ -1,2 +1,2 @@
 # repository-setup
-Attempt number three
+Practice Repository set up for QMSS Research Seminar Class
